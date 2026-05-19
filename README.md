@@ -41,6 +41,13 @@ pip install -r requirements.txt
 ## 📊 Sample Output  
 - MLP baseline → Accuracy: 13.4%, Macro F1: 0.07  
 - RoBERTa + LoRA → Accuracy: 1.3%, Macro F1: 0.0003  
-- Demo query: "My card is not working" → Predicted intent: card_not_working  
+- Demo query: "My card is not working" → Predicted intent: card_not_working
+
+Results Comparison
+
+| Model            | Accuracy | Macro F1 | Notes                  |
+|------------------|----------|----------|------------------------|
+| MLP (TF‑IDF)     | 13.4%    | 0.07     | Baseline performed better |
+| RoBERTa + LoRA   | 1.3%     | 0.0003   | Needs more fine‑tuning   |
 
 Thanks for checking out my project! 😊  
