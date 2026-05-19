@@ -1,10 +1,10 @@
-# 🏦 Banking Intent 
+# 🏦 Banking Intent Classification
 
 ![AI](https://img.shields.io/badge/AI-Engineering-blueviolet)
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
 ![License](https://img.shields.io/badge/License-MIT-yellow)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 ![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)
 
 ## 👩‍💻 About Me 
