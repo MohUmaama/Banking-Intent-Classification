@@ -44,4 +44,3 @@ pip install -r requirements.txt
 - Demo query: "My card is not working" → Predicted intent: card_not_working  
 
 Thanks for checking out my project! 😊  
-Moahmed Fahim Umaama (AI Engineer)
