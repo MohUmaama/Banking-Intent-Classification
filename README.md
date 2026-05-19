@@ -15,7 +15,7 @@ This project explores intent classification in banking customer queries using tw
 The dataset used is **Banking77**, a benchmark dataset with 77 intent categories.
 
 
-##⚙️ Setup  
+## ⚙️ Setup  
 Clone the repo and install dependencies:  
 git clone https://github.com/MohUmaama/Banking-Intent-Classification.git  
 cd Banking-Intent-Classification  
